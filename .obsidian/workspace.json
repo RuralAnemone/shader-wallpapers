@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6c1b99992a742f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mandelbrot/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mandelbrot/z-mod/readme.md",
+                "file": "mandelbrot/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mandelbrot/z-mod/readme.md",
+                "file": "mandelbrot/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mandelbrot/z-mod/readme.md"
+                "file": "mandelbrot/readme.md"
               }
             }
           }
@@ -146,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d754e85413ceaba4",
+  "active": "c6c1b99992a742f1",
   "lastOpenFiles": [
     "mandelbrot/z-mod/readme.md",
+    "mandelbrot/readme.md",
+    "README.md",
     "mandelbrot/z-mod"
   ]
 }
