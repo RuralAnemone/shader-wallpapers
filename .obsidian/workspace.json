@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "94a683bf6c893ba0",
+        "id": "2cf4de668f4af5f1",
         "type": "tabs",
         "children": [
           {
-            "id": "c6c1b99992a742f1",
+            "id": "63b9da9cdb6bb502",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mandelbrot/z-mod/readme.md",
+                "file": "compliance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mandelbrot/z-mod/readme.md",
+                "file": "compliance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mandelbrot/z-mod/readme.md",
+                "file": "compliance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mandelbrot/z-mod/readme.md"
+                "file": "compliance.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6c1b99992a742f1",
+  "active": "63b9da9cdb6bb502",
   "lastOpenFiles": [
-    "mandelbrot/readme.md",
     "mandelbrot/z-mod/readme.md",
+    "compliance.md",
+    "Untitled",
+    "mandelbrot/readme.md",
     "README.md",
     "mandelbrot/z-mod"
   ]
