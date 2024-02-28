@@ -1,5 +1,5 @@
 // works on shadertoy
-// how I just have to port it over to my phone and edit the offset (:
+// now I just have to port it over to my phone and edit the offset (:
 
 // based on https://www.shadertoy.com/view/ttGfDG
 
