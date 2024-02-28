@@ -1,4 +1,7 @@
-// 
+// works on shadertoy
+// how I just have to port it over to my phone and edit the offset (:
+
+// based on https://www.shadertoy.com/view/ttGfDG
 
 const vec3 palette[ 8 ] = vec3[8](
                                 vec3( 0.0, 0.0, 0.0 ),
