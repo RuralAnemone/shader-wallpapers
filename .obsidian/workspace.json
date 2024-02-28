@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mandelbrot/readme.md",
+                "file": "mandelbrot/z-mod/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mandelbrot/readme.md",
+                "file": "mandelbrot/z-mod/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mandelbrot/readme.md",
+                "file": "mandelbrot/z-mod/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mandelbrot/readme.md"
+                "file": "mandelbrot/z-mod/readme.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "c6c1b99992a742f1",
   "lastOpenFiles": [
-    "mandelbrot/z-mod/readme.md",
     "mandelbrot/readme.md",
+    "mandelbrot/z-mod/readme.md",
     "README.md",
     "mandelbrot/z-mod"
   ]
