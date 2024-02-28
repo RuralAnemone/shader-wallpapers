@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "946924723c83ad1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "94a683bf6c893ba0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d754e85413ceaba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mandelbrot/z-mod/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7e18b5431b4249e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bcc4c8c73d1c79f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ff6d0e09a3fcaa6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "929144aadf8bf84c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "589c60adb23b3097",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71e6bbc25e24e456",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad6172f9b212cd83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fbe4d10918da1d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mandelbrot/z-mod/readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "979d39543505f2f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mandelbrot/z-mod/readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7286a89569fd4f0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc2ee588f04a8f5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mandelbrot/z-mod/readme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d754e85413ceaba4",
+  "lastOpenFiles": [
+    "mandelbrot/z-mod/readme.md",
+    "mandelbrot/z-mod"
+  ]
+}
