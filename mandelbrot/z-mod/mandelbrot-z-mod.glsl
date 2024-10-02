@@ -51,7 +51,7 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
     // Normalized pixel coordinates (from 0 to 1)
     float depth = 16.0;
     float scale = .5;
-    vec2 offset = vec2(1.16,-2.3);
+    vec2 offset = vec2(1.165,-2.3);
 
 
     float aspectRatio = resolution.x / resolution.y;
@@ -67,7 +67,7 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
     re = re * sin(time/10.);
 
     int i;
-    for (i = 0; i < 150; ++i) {
+    for (i = 0; i < 100; ++i) {
         if (re*re + im*im > 2000.0) {
             diverged = true;
             break;
